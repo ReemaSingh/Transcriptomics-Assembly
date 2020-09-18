@@ -230,4 +230,6 @@ De-novo Transcriptomics Assembly workflow for four Dictyostelium species (e.g.- 
     multiplot(p,p2,p1,p3)
     dev.off()
     
-    
+# Publication
+
+Singh R, Lawal HM, Schilde C, Glöckner G, Barton GJ, Schaap P, Cole C. Improved annotation with de novo transcriptome assembly in four social amoeba species. BMC genomics. 2017 Dec 1;18(1):120.
