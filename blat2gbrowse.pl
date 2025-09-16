@@ -1,4 +1,3 @@
-#### Script created by Dr. Reema Singh
 #!/usr/bin/perl
 #
 # convert a blat output file (tab format) for est alignments
