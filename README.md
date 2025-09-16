@@ -236,3 +236,6 @@ https://github.com/bartongroup/rs-Transcriptomics-Assembly
 # Publication
 
 Singh R, Lawal HM, Schilde C, Glöckner G, Barton GJ, Schaap P, Cole C. Improved annotation with de novo transcriptome assembly in four social amoeba species. BMC genomics. 2017 Dec 1;18(1):120.
+
+# Author
+This script was originally created by Dr. Reema Singh
