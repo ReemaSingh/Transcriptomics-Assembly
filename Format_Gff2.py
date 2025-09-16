@@ -1,4 +1,3 @@
-#### Script created by Dr. Reema Singh
 import re
 with open("P_Pal_1.gff", "r") as f:
     for line in f:
